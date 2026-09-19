@@ -1,6 +1,6 @@
 # AI Product Sourcing Agent
 
-<p align="center"><img src="assets/architecture.svg" alt="AI Product Sourcing Agent architecture" width="100%"></p>
+<p align="center"><img src="assets/showcase.png" alt="AI Product Sourcing Agent — marketplace-agnostic sourcing intelligence" width="100%"></p>
 
 Marketplace-agnostic sourcing intelligence for turning a product objective into multiple search angles, normalizing offers, deduplicating candidates and ranking them from observed listing evidence.
 
@@ -20,6 +20,10 @@ This public repository contains no private supplier database or scraped catalogu
 ## Run
 
 Install dependencies, then run `npm test` or `npm run demo`.
+
+## Pipeline
+
+<p align="center"><img src="assets/architecture.svg" alt="AI Product Sourcing Agent architecture" width="100%"></p>
 
 ## Ranking model
 
