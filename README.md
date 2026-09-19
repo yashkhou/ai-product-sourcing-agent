@@ -1,5 +1,7 @@
 # AI Product Sourcing Agent
 
+<p align="center"><img src="assets/architecture.svg" alt="AI Product Sourcing Agent architecture" width="100%"></p>
+
 Marketplace-agnostic sourcing intelligence for turning a product objective into multiple search angles, normalizing offers, deduplicating candidates and ranking them from observed listing evidence.
 
 This public repository contains no private supplier database or scraped catalogue. The included marketplace adapter is synthetic; authorized real-market adapters plug into the same interface.
